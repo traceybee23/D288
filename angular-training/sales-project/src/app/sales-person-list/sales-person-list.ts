@@ -5,7 +5,7 @@ import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-sales-person-list',
-  templateUrl: './sales-person-list.html',
+  templateUrl: './sales-person-list-bootstrap.html',
   styleUrl: './sales-person-list.css',
   imports: [CommonModule]
 })
