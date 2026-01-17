@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'my-first-angular-project';
+  protected title = 'This is my first App';
+  protected firstName = 'Tracey';
+  protected lastName = 'Beard';
 }
